@@ -1,7 +1,6 @@
-# Crossover23_gpt_patch-
+# Crossover_gpt_patch
 add game porting tools 1.02beta patch into crossover 
 
-It only works with Crossover 23 nightly build, please not use crossover 22.1 to try 
 
 !!!! you need to create a new bottle in crossover23 first after you patch it, you can no longer create bottle. 
 1. Extract the zip package of "dxvk_metal" and replace them with the following directory:
