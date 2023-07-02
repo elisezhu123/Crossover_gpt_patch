@@ -1,0 +1,738 @@
+{
+  "homebrew_version": "4.0.26",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": false,
+  "poured_from_bottle": false,
+  "loaded_from_api": false,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": null,
+  "time": 1688248429,
+  "source_modified_time": 1680441988,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "apple/apple/game-porting-toolkit-compiler",
+      "version": "0.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libpng",
+      "version": "1.6.40",
+      "declared_directly": true
+    },
+    {
+      "full_name": "freetype",
+      "version": "2.13.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "fontconfig",
+      "version": "2.14.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "pcre2",
+      "version": "10.42",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gettext",
+      "version": "0.21.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "glib",
+      "version": "2.76.3",
+      "declared_directly": true
+    },
+    {
+      "full_name": "xorgproto",
+      "version": "2023.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxau",
+      "version": "1.0.11",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxdmcp",
+      "version": "1.1.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxcb",
+      "version": "1.15",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libx11",
+      "version": "1.8.6",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxext",
+      "version": "1.3.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxrender",
+      "version": "0.9.11",
+      "declared_directly": false
+    },
+    {
+      "full_name": "lzo",
+      "version": "2.10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "pixman",
+      "version": "0.42.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "cairo",
+      "version": "1.16.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "dav1d",
+      "version": "1.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "faac",
+      "version": "1.30",
+      "declared_directly": false
+    },
+    {
+      "full_name": "faad2",
+      "version": "2.10.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "fdk-aac",
+      "version": "2.0.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "brotli",
+      "version": "1.0.9",
+      "declared_directly": false
+    },
+    {
+      "full_name": "giflib",
+      "version": "5.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "highway",
+      "version": "1.0.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "imath",
+      "version": "3.1.9",
+      "declared_directly": false
+    },
+    {
+      "full_name": "jpeg-turbo",
+      "version": "2.1.5.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xz",
+      "version": "5.4.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "lz4",
+      "version": "1.9.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zstd",
+      "version": "1.5.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libtiff",
+      "version": "4.5.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "little-cms2",
+      "version": "2.15",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openexr",
+      "version": "3.1.9",
+      "declared_directly": false
+    },
+    {
+      "full_name": "webp",
+      "version": "1.3.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "jpeg-xl",
+      "version": "0.8.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libvmaf",
+      "version": "2.3.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "aom",
+      "version": "3.6.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "aribb24",
+      "version": "1.0.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "frei0r",
+      "version": "1.8.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "ca-certificates",
+      "version": "2023-05-30",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gmp",
+      "version": "6.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libunistring",
+      "version": "1.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libidn2",
+      "version": "2.3.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libtasn1",
+      "version": "4.19.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "nettle",
+      "version": "3.9.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "p11-kit",
+      "version": "0.25.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openssl@3",
+      "version": "3.1.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libevent",
+      "version": "2.1.12",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libnghttp2",
+      "version": "1.54.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "unbound",
+      "version": "1.17.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gnutls",
+      "version": "3.8.0",
+      "declared_directly": true
+    },
+    {
+      "full_name": "lame",
+      "version": "3.100",
+      "declared_directly": false
+    },
+    {
+      "full_name": "fribidi",
+      "version": "1.0.13",
+      "declared_directly": false
+    },
+    {
+      "full_name": "graphite2",
+      "version": "1.3.14",
+      "declared_directly": false
+    },
+    {
+      "full_name": "icu4c",
+      "version": "73.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "harfbuzz",
+      "version": "7.3.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libunibreak",
+      "version": "5.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libass",
+      "version": "0.17.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libbluray",
+      "version": "1.3.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "cjson",
+      "version": "1.7.15",
+      "declared_directly": false
+    },
+    {
+      "full_name": "mbedtls",
+      "version": "3.4.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "librist",
+      "version": "0.2.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libsoxr",
+      "version": "0.1.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libvidstab",
+      "version": "1.1.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libogg",
+      "version": "1.3.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libvorbis",
+      "version": "1.3.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libvpx",
+      "version": "1.13.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "opencore-amr",
+      "version": "0.1.6",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openjpeg",
+      "version": "2.5.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "opus",
+      "version": "1.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "rav1e",
+      "version": "0.6.6",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libsamplerate",
+      "version": "0.2.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "flac",
+      "version": "1.4.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "mpg123",
+      "version": "1.31.3",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libsndfile",
+      "version": "1.2.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "rubberband",
+      "version": "3.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "sdl2",
+      "version": "2.28.0",
+      "declared_directly": true
+    },
+    {
+      "full_name": "snappy",
+      "version": "1.1.10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "speex",
+      "version": "1.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "srt",
+      "version": "1.5.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "svt-av1",
+      "version": "1.6.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "leptonica",
+      "version": "1.82.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libb2",
+      "version": "0.98.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libarchive",
+      "version": "3.6.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "pango",
+      "version": "1.50.14",
+      "declared_directly": false
+    },
+    {
+      "full_name": "tesseract",
+      "version": "5.3.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "theora",
+      "version": "1.1.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "x264",
+      "version": "r3095",
+      "declared_directly": false
+    },
+    {
+      "full_name": "x265",
+      "version": "3.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xvid",
+      "version": "1.3.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libsodium",
+      "version": "1.0.18",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zeromq",
+      "version": "4.3.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "zimg",
+      "version": "3.0.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "ffmpeg",
+      "version": "6.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gsettings-desktop-schemas",
+      "version": "44.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "glib-networking",
+      "version": "2.76.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "graphene",
+      "version": "1.10.8",
+      "declared_directly": false
+    },
+    {
+      "full_name": "atk",
+      "version": "2.38.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gdk-pixbuf",
+      "version": "2.42.10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "hicolor-icon-theme",
+      "version": "0.17",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libepoxy",
+      "version": "1.5.10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gtk+3",
+      "version": "3.24.38",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gtk4",
+      "version": "4.10.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "json-glib",
+      "version": "1.6.6",
+      "declared_directly": false
+    },
+    {
+      "full_name": "pkg-config",
+      "version": "0.29.2",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libpthread-stubs",
+      "version": "0.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libshout",
+      "version": "2.4.6",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libpsl",
+      "version": "0.21.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libsoup",
+      "version": "3.4.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libusrsctp",
+      "version": "0.9.5.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "orc",
+      "version": "0.4.34",
+      "declared_directly": false
+    },
+    {
+      "full_name": "mpdecimal",
+      "version": "2.5.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "readline",
+      "version": "8.2.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "sqlite",
+      "version": "3.42.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "python@3.11",
+      "version": "3.11.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gobject-introspection",
+      "version": "1.76.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "py3cairo",
+      "version": "1.24.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "pygobject3",
+      "version": "3.44.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "rtmpdump",
+      "version": "2.4+20151223",
+      "declared_directly": false
+    },
+    {
+      "full_name": "srtp",
+      "version": "2.5.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "taglib",
+      "version": "1.13.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libcuefile",
+      "version": "r475",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libreplaygain",
+      "version": "r475",
+      "declared_directly": false
+    },
+    {
+      "full_name": "musepack",
+      "version": "r475",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gstreamer",
+      "version": "1.22.4",
+      "declared_directly": true
+    },
+    {
+      "full_name": "zlib",
+      "version": "1.2.13",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libavif",
+      "version": "0.11.1",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gd",
+      "version": "2.3.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libexif",
+      "version": "0.6.24",
+      "declared_directly": false
+    },
+    {
+      "full_name": "m4",
+      "version": "1.4.19",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libtool",
+      "version": "2.4.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libusb",
+      "version": "1.0.26",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libusb-compat",
+      "version": "0.1.8",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libgphoto2",
+      "version": "2.5.30",
+      "declared_directly": true
+    },
+    {
+      "full_name": "faudio",
+      "version": "23.06",
+      "declared_directly": true
+    },
+    {
+      "full_name": "jpeg",
+      "version": "9e",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libgsm",
+      "version": "1.0.22",
+      "declared_directly": true
+    },
+    {
+      "full_name": "openssl@1.1",
+      "version": "1.1.1u",
+      "declared_directly": true
+    },
+    {
+      "full_name": "net-snmp",
+      "version": "5.9.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "sane-backends",
+      "version": "1.2.1",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "path": "/usr/local/Homebrew/Library/Taps/apple/homebrew-apple/Formula/game-porting-toolkit.rb",
+    "tap": "apple/apple",
+    "tap_git_head": "293d6d21b3b3a9160c83dcc6042ae19329cd1736",
+    "spec": "stable",
+    "versions": {
+      "stable": "1.0.2",
+      "head": null,
+      "version_scheme": 0
+    }
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 14",
+    "cpu_family": "westmere",
+    "xcode": "15.0",
+    "clt": "15.0.0.0.1.1686949477",
+    "preferred_perl": "5.34"
+  }
+}
